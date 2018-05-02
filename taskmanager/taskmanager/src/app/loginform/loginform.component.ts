@@ -13,3 +13,4 @@ export class LoginformComponent implements OnInit {
   }
 
 }
+export class DemoButtonsBasicComponent {}
