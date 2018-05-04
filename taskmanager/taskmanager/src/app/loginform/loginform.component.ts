@@ -11,6 +11,9 @@ export class LoginformComponent implements OnInit {
 
   ngOnInit() {
   }
-
+// loginUser(e) {
+// let username = e.elements[0].value;
+// let password = e.elements[1].value;
+// }
 }
 export class DemoButtonsBasicComponent {}
